@@ -1,3 +1,16 @@
-Business  [error opening dir]
+.
+├── Accounts
+│   ├── accountsyear1
+│   └── accountsyear2
+├── estrutura_final_lab4.txt
+├── Payrol
+│   ├── Backup
+│   │   └── payrollbackup
+│   ├── notes.txt
+│   ├── payrol2
+│   └── payroll
+└── Staff
+    ├── notes.txt
+    └── stafflist
 
-0 directories, 0 files
+5 directories, 9 files
